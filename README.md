@@ -11,6 +11,7 @@ Visit us at [Don Bigotes](https://pfinal-v2.vercel.app/)
 ## Tools & Frameworks
 
 + Vite + React + Typescript
++ pnpm
 + Tailwind 3.3.3
 + DaysiUI
 + Heroicons
